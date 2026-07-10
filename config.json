@@ -1,0 +1,38 @@
+{
+  "token": "8813840717:AAFszJNp-a9e3JOUgI3-6-x1bhUlo3hJWHU",
+  "db_name": "bot_data.db",
+  "owner_ids": [
+    70916650,
+    5949150362
+  ],
+  "admin_ids": [
+    70916650,
+    5949150362
+  ],
+  "required_subscription_chat": "-1003957421822",
+  "required_subscription_link": "https://t.me/+mI1fRxvn3FphYjA0",
+  "allowed_link_domains": [
+    "t.me",
+    "ton.org",
+    "telegram.org"
+  ],
+  "settings_defaults": {
+    "vip_threshold_amount": "500",
+    "vip_threshold_level": "Эксперт",
+    "moderation_enabled": "1",
+    "filter_links": "1",
+    "filter_badwords": "1",
+    "filter_spam": "1",
+    "xp_per_message": "1",
+    "ref_bonus_coins": "50",
+    "ref_bonus_xp": "10",
+    "deal_xp_percent": "5",
+    "default_commission": "0.02",
+    "scam_action": "mute",
+    "premium_emoji_id": "",
+    "premium_emoji_base_xp": "2",
+    "premium_emoji_growth_step": "1",
+    "premium_emoji_max_xp": "10",
+    "commission_currency": "coins"
+  }
+}
